@@ -3,7 +3,7 @@ module github.com/bketelsen/fleekgen
 go 1.20
 
 require (
-	github.com/gofiber/fiber/v2 v2.52.6
+	github.com/gofiber/fiber/v2 v2.52.8
 	github.com/samber/lo v1.50.0
 	gopkg.in/yaml.v3 v3.0.1
 )
