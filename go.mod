@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.6
-	github.com/samber/lo v1.50.0
+	github.com/samber/lo v1.51.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
